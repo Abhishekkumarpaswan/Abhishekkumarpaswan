@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abhishekkumarpaswan
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning C programming
+- :)  I'm currenttly working on python projects
 - 💞️ I’m looking to collaborate on any program
 - 📫 How to reach me mail me
 
