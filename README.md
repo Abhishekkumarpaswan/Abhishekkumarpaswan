@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML projects<br>👯 I’m looking to collaborate on small projects<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning Web and App Dev<br>💬 Ask me about anything @ abhilaptop12345@gmail.com<br>I am currently attending CS50x2024<br>⚡ Fun fact " If I can't say how many traffic lights are in picture, then am I a robot"
+🔭 I’m currently working on AI/ML projects<br>👯 I’m looking to collaborate on small projects<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning Web and App Dev<br>💬 Ask me about anything @ abhilaptop12345@gmail.com<br>⚡ Fun fact " If I can't say how many traffic lights are in picture, then am I a robot"
 
 
 ## 🌐 Socials:
